@@ -34,7 +34,7 @@ function displayResults() {
 function displayScores() {
 
     
-    var table = "<tr><td><b>Name</b></th><td>Score</td></tr>";
+    var table = "<tr><td><b>Name</b></th><td><b>Score</b></td></tr>";
     
     
     for (var i = 0; i < names.length; i++) {
